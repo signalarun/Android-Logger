@@ -1,3 +1,4 @@
+/*
 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -200,7 +201,7 @@ Apache License
    See the License for the specific language governing permissions and
    limitations under the License
 
-
+*/
 import android.util.Log;
 
 /**
